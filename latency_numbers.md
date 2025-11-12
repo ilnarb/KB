@@ -11,7 +11,7 @@
 | Main memory reference | 100 | | | 10,000,000 |
 | System call | 100-1000 ? | | | |
 | Context switch | 1000-10000 ? | 1-10 ? | | |
-| Compress 1K bytes with Zippy | 3,000 | 3 | | 333 MB |
+| Compress 1K bytes with zstd | 2,000 | 2 | | 500 MB |
 | Send 2K bytes over 1 Gbps network | 20,000 | 20 | | |
 | HTTP request | 50,000 | 50 | | 20000 |
 | SSD random read 8K page | 100,000 | 100 | | 10,000 |
