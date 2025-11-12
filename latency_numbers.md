@@ -21,5 +21,4 @@ Assuming ~1GB/sec SSD, actually from ~3GB/sec to ~14GB/sec now (https://www.toms
 Actually from ~50Mb/sec to ~150MB/sec now
 
 Data by [Jeff Dean](http://research.google.com/people/jeff/)
-
 Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
